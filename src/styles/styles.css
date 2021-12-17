@@ -1,0 +1,14 @@
+.form-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  width: 30ch;
+  height: 200px;
+  justify-content: space-between;
+}
